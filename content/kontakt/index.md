@@ -19,6 +19,8 @@ Außerdem haben wir eine **Mailingliste**, sowie Gruppen bei **Whatsapp**, **Sig
 > Chemnitzstr. 7  
 > 38118 Braunschweig  
 
+Technische Details zu dieser Website gibt es übrigens [auf Github](https://github.com/flauschzelle/poly-bs-website).
+
 ## Datenschutz
 
 Wir erheben auf dieser Website keine personenbezogenen Daten.  
