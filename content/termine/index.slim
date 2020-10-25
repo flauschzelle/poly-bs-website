@@ -1,0 +1,15 @@
+---
+title: Termine
+subtitle: Polyamorie Stammtisch Braunschweig
+nometa: true
+headless: true
+menu: Termine
+---
+
+h1 = "Termine" 
+
+p Der Stammtisch findet regelmäßig immer am letzten Mittwoch des Monats (außer im Dezember) ab 19 Uhr statt. Auch wenn hier nur ein paar Monate im Voraus angezeigt werden, könnt ihr euch daran orientieren, falls ihr euch schon die Termine für spätere Monate merken wollt. 
+p Falls sich mal ein Termin ändert, werden wir das hier auf der Website aktualisieren, also schaut am besten einfach kurz vorher nochmal nach.
+   
+- events.group_by{|t| 0}.each do |group, event| 
+    == eventbox(event)

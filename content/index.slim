@@ -1,0 +1,54 @@
+---
+title: Polyamorie Stammtisch Braunschweig
+subtitle: Ein Treffen für Menschen, die sich für alternative Beziehungsformen interessieren
+headless: true
+---
+
+#logotitle 
+    | Polyamorie Stammtisch Braunschweig
+    br
+#logosubtitle
+    | Braunschweiger Stammtisch 
+    br
+    | für alternative Beziehungsformen
+
+h2= "Herzlich willkommen!"
+
+p
+	| Hier findest du 
+	a< href="/faq/" Infos über unser monatliches Treffen 
+	| und Neuigkeiten aus der polyamoren Community in Braunschweig und Umgebung.
+
+p
+	|Wenn du wissen möchtest, um was es hier eigentlich geht, dann lies dir unsere Erklärung über 
+	a< href="/polyamorie/" Polyamorie und alternative Beziehungsformen
+	|  durch. 
+	
+P
+	|Wenn du gerne zu einem Stammtisch kommen möchtest, findest du hier die nächsten 
+	a< href= "/termine/" Termine
+	| . 
+	
+p	
+	|Wenn du per E-Mail an die Termine erinnert werden möchtest, oder falls du irgendwelche Fragen hast, kannst du uns gerne 
+	a< href="/kontakt/" kontaktieren
+	| .
+
+h2= "Die nächsten Termine"
+
+- nextevents.group_by{|t| 0}.each do |group, event| 
+    == eventbox(event)
+    
+p
+	a< href="/termine/" -> alle Termine
+
+h2= "Blog"
+
+- newestthings.group_by{|t| 0}.each do |group, newestthing| 
+    == box(newestthing)
+
+/- newestthings.group_by{|t| 0}.sort_by{|y,t| -y}.each do |group, n| 
+/    == box(n)
+
+p
+	a< href="/blog/" -> alle Beiträge
