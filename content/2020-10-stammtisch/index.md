@@ -10,7 +10,7 @@ eventname: "Polyamorie-Stammtisch Oktober 2020"
 eventtype: "Online-Stammtisch"
 eventdetail: "ab 19:00 Uhr"
 facebook: false
-twitter: false
+twitter: https://twitter.com/poly_bs/status/1320446535117770754
 ---
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
