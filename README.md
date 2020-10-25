@@ -26,14 +26,14 @@ Wenn ihr mit allen Änderungen zufrieden seid, dann kann die aktualisierte Websi
 Das Layout der Seite ist im Format [slim](http://slim-lang.com/) definiert - vor allem in den Dateien *layouts/default.slim* und *content/index.slim*.
 Der eigentliche Inhalt ist, bis auf die Startseite, in [Markdown](https://markdown.de/) geschrieben. Für jede weitere Seite (also z.B. Blogposts, Info-Seiten wie z.B. FAQ, und jeweils eine Ankündigungsseite für jede Stammtisch-Veranstaltung) liegt ein eigenes Unter-Verzeichnis im Ordner *content* mit einer eigenen *index.md*-Datei und ggf. weiteren Dateien, die nur für diese Seite nötig sind, also z.B. Bildern. Der Name des Ordners taucht dann in der fertigen Website als Teil der URL auf, also z.B. *http://poly-bs.de/kontakt/* für den Ordner *content/kontakt/*.
 
-Auf der Startseite werden automatisch die drei nächsten Termine (von Zeitpunkt der letzten Aktualisierung aus gesehen) und die drei neusten Blogposts jeweils in einer kleinen Vorschau-Box angezeigt.
+Auf der Startseite werden automatisch die drei nächsten Termine (vom Zeitpunkt der letzten Aktualisierung aus gesehen) und die drei neusten Blogposts jeweils in einer kleinen Vorschau-Box angezeigt.
 
 ### Neuen Stammtischtermin und/oder Blogpost anlegen
 
 Um einen neuen Termin anzulegen, ist es am einfachsten, zuerst den Ordner eines vergangenen Termins zu kopieren und den Namen entsprechend anzupassen. Dann im angepassten Ordner die Datei *index.md* bearbeiten, so dass die Daten für den neuen Termin passend sind. Aktuell können bei Termin-Seiten und Blogposts folgende Infos im Header-Bereich angegeben werden:
 
-Attribut-Name | Beispiel | Beschreibung
-------------- | -------- | ------------
+Attribut-Name | Beispiel-Wert | Beschreibung
+------------- | ------------- | ------------
 title | "Polyamorie Stammtisch im Oktober 2020" | Titel für die Seite
 subtitle | Unser monatliches Treffen für alternative Beziehungsformen | Untertitel für die Seite
 tags | Veranstaltung, Stammtisch | Themen-Stichwörter, werden für Blogposts in der Vorschaubox angezeigt
