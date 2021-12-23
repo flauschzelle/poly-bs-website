@@ -76,7 +76,7 @@ Welche Gesprächsthemen es an einem bestimmten Abend gibt, hängt davon ab, was 
 
 Wir haben einen Wasserkocher vor Ort und trinken oft Tee. Meistens bringt auch jemand etwas zu essen mit. Ansonsten ist der Stammtisch schon hauptsächlich zum Reden gedacht. 
 
-Manchmal unternehmen wir als polyamore Community auch gemeinsam etwas außerhalb des Stammtisches, z.B. einen Film gucken, Billard spielen oder eine Kuschelparty. Das findet dann aber nicht während der üblichen Stammtisch-Termine statt sondern zusätzlich.
+Manchmal unternehmen wir als polyamore Community auch gemeinsam etwas außerhalb des Stammtisches, z.B. einen Film gucken, Billard spielen oder eine Kuschelparty. Das findet dann aber nicht während der üblichen Stammtisch-Termine statt, sondern zusätzlich.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -94,13 +94,14 @@ Ja, unser Stammtisch ist auch offen für Menschen, die sich einfach nur über da
 
 ##<a name="wo"></a>Wo findet das Treffen statt?
 
-Wir treffen uns meistens ab 19 Uhr in der [DRK KaufBar](https://www.drk-kv-bs-sz.de/angebote/kaufbar/kultur.html) (Helmstedter Str. 135 in Braunschweig), und gehen dann in den **Raum des Ehrenamts** (1.OG im Hinterhof der KaufBar), wo um 19:30 der eigentliche Stammtisch beginnt.
+Wir treffen uns ab 19 Uhr im 1. OG des Queeren Zentrums [Onkel Emma](https://onkel-emma.org/) (Echternstraße 9 in Braunschweig). Um 19:30 Uhr beginnt der eigentliche Stammtisch.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
 ##<a name="essen"></a>Kann/muss ich da etwas zu essen oder trinken kaufen?
 
-In der KaufBar gibt es Getränke und manchmal auch abends noch Essen, das ist aber oft schon ausverkauft, wenn wir beginnen. Wer Getränke kaufen möchte, kann dies also vor Beginn des Stammtisches in der KaufBar tun - es ist im Raum des Ehrenamts aber auch in Ordnung, selbst mitgebrachte Getränke und Essen zu konsumieren. Wir haben auch einen Wasserkocher, so dass wir vor Ort Tee machen können.
+Bei unserem Raum im Onkel Emma gibt es eine Küche mit Kühlschrank, aus dem wir kühle Getränke kaufen können. Ein Wasserkocher für Tee etc. ist auch vorhanden.  
+Essen dürfen wir selbst mitbringen.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
