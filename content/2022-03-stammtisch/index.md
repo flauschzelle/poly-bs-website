@@ -2,27 +2,29 @@
 title: "Polyamorie Stammtisch im März 2022"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
-published: 2022-01-26
+published: 2022-03-21
 news: false
 nometa: true
 eventdate: 2022-03-30
 eventname: "Polyamorie-Stammtisch März 2022"
-eventtype: "(vmtl.) Online-Stammtisch"
-eventdetail: "ab 19:00 Uhr"
+eventtype: "Stammtisch"
+eventdetail: "19:00 Uhr im Onkel Emma"
 facebook: false
 twitter: false
 ---
 
-_Da die Corona-Inzidenzen immer noch sehr hoch sind, wollen wir im Moment keine Veranstaltung in Innenräumen stattfinden lassen. Deswegen wird der Stammtisch im März **voraussichtlich** nicht vor Ort stattfinden, sondern wie im letzten Monat wieder ein **Online-Treffen**. Falls wir wider Erwarten doch schon ein Teffen vor Ort machen können, wird das hier rechtzeitig angekündigt._
-
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 30.03.2022 ab 19:00 Uhr online via BigBlueButton
+### Mi, 30.03.2022 ab 19:00 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
-Wer teilnehmen möchte, kann uns eine E-mail (oder in unseren Chat-Gruppen auf Whatsapp, Signal und Telegram) [schreiben](/kontakt/) und bekommt den Zugangslink.
+Wir treffen uns ab 19 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
 
-Der Stammtisch findet auf dem Online-Konferenzsystem **BigBlueButton** statt. Ihr braucht dafür keinen Account und müsst nichts installieren, sondern könnt einfach über den Browser teilnehmen - mit Webcam und Mikrofon (z.B. von eurem Smartphone oder Laptop). Außerdem gibt es einen Textchat.
+Wir beginnen um **19:30 Uhr** mit der Vorstellungsrunde. Ab 19 Uhr könnt ihr schon einige Leute des Stammtisches im Onkel Emma treffen. Es sind jederzeit neue Leute willkommen.
 
-Ihr könnt euch gerne schon ab **19 Uhr** einloggen, um eure Technik zu testen und in Ruhe anzukommen. Spätestens um **19:30 Uhr** beginnen wir dann wie üblich mit einer Vorstellungsrunde.
+Im Hinblick auf die aktuell immer noch sehr hohen Corona-Inzidenzzahlen bitten wir euch, vorher einen **Schnelltest** durchzuführen. Und wenn ihr Erkältungssymptome habt, bleibt bitte sowieso zu Hause.
+
+Zusätzlich achtet bitte auf die allgemeinen Schutzmaßnahmen: zieht euch warm an (so dass wir den Raum zwischendurch lüften können) und tragt wenn möglich eine **FFP2-Maske** (zum Trinken dürft ihr die Maske kurz abnehmen).
+
+Im Onkel Emma hängen außerdem QR-Codes zum **Check-In mit der Corona-Warn-App** aus. Wir bitten euch, diese auch zu nutzen.
 
 Wir freuen uns auf euch!
