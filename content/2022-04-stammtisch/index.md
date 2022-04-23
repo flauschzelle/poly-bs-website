@@ -7,14 +7,24 @@ news: false
 nometa: true
 eventdate: 2022-04-27
 eventname: "Polyamorie-Stammtisch April 2022"
-eventtype: "vor Ort oder online, TBA"
-eventdetail: "ab 19:00 Uhr"
+eventtype: "Stammtisch"
+eventdetail: "19:00 Uhr im Onkel Emma"
 facebook: false
 twitter: false
 ---
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 27.04.2022 ab 19:00 Uhr
+### Mi, 27.04.2022 ab 19:00 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
-_Im Moment können wir noch nicht abschätzen, ob die Corona-Inzidenzen im April so niedrig sein werden, dass wir eine Veranstaltung in Innenräumen stattfinden lassen wollen. Der Stammtisch findet entweder **drinnen im [Onkel Emma](https://onkel-emma.org/)**, **draußen** im Freien, oder als **Online-Treffen** statt. Sobald wir eine bessere Einschätzung dazu haben, gibt es hier mehr Info, also schaut kurz vorher nochmal nach!._
+Wir treffen uns ab 19 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
+
+Wir beginnen um **19:30 Uhr** mit der Vorstellungsrunde. Ab 19 Uhr könnt ihr schon einige Leute des Stammtisches im Onkel Emma treffen. Es sind jederzeit neue Leute willkommen.
+
+Im Hinblick auf die aktuell immer noch sehr hohen Corona-Inzidenzzahlen bitten wir euch, vorher einen **Schnelltest** durchzuführen. Und wenn ihr Erkältungssymptome habt, bleibt bitte sowieso zu Hause.
+
+Zusätzlich achtet bitte auf die allgemeinen Schutzmaßnahmen: zieht euch warm an (so dass wir den Raum zwischendurch lüften können) und tragt wenn möglich eine **FFP2-Maske** (zum Trinken dürft ihr die Maske kurz abnehmen).
+
+Im Onkel Emma hängen außerdem QR-Codes zum **Check-In mit der Corona-Warn-App** aus. Wir bitten euch, diese auch zu nutzen.
+
+Wir freuen uns auf euch!
