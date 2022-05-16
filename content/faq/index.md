@@ -50,12 +50,7 @@ Es gibt einige Leute, die fast immer da sind - und einige, die nur ab und zu mal
 
 ##<a name="socialmedia"></a>Wo kann ich euch vorher online kennenlernen oder mich mit anderen Leuten absprechen, die auch dabei sein werden?
 
-Da gibt es mehrere Möglichkeiten: 
-
-- Zu den Stammtisch-Terminen erstellen wir oft auch eine Veranstaltung auf [Facebook](https://www.facebook.com/polyGruppeBS/). Dort kannst du dich als Teilnehmer\*in oder als Interessiert eintragen und mit anderen Teilnehmer\*innen interagieren. Es sind aber nicht alle Leute, die zu unserem Stammtisch kommen, auch bei Facebook aktiv.
-- Du kannst uns auf [Twitter](https://twitter.com/poly_bs) folgen. Auch da veröffentlichen wir oft zu Terminen einen Ankündigungstweet und du kannst dort kommentieren oder uns in deinem Tweet erwähnen, um andere Teilnehmer\*innen zu finden.
-- Wir haben eine **Mailingliste** eingerichtet, auf der du an die Stammtisch-Termine und andere relevante Veranstaltungen erinnert werden kannst. Außerdem gibt es auch eine **Diskussions-Mailingliste**, wo du außerhalb des Stammtisches mit den anderen polyamoren Leuten quatschen kannst. Wenn du auf diese Mailingliste(n) drauf möchtest, schreib uns eine [E-Mail](/kontakt/) oder sag beim Stammtisch Bescheid.
-- Wir haben außerdem Gruppen bei **Whatsapp**, **Signal** und **Telegram**, in denen sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn du in eine oder mehrere dieser Gruppen rein möchtest, [sag uns Bescheid](/kontakt/)!
+Wir haben Gruppen bei **Whatsapp**, **Signal** und **Telegram**, in denen sich Teilnehmer\*innen und Interessierte online austauschen können. Wenn du in eine oder mehrere dieser Gruppen rein möchtest, [sag uns Bescheid](/kontakt/)!
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
