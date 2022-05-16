@@ -1,12 +1,12 @@
 ---
-title: "Polyamorie Stammtisch im Mai 2022"
+title: "Polyamorie Stammtisch im September 2022"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
-published: 2022-04-23
+published: 2022-05-16
 news: false
 nometa: true
-eventdate: 2022-05-25
-eventname: "Polyamorie-Stammtisch Mai 2022"
+eventdate: 2022-09-28
+eventname: "Polyamorie-Stammtisch September 2022"
 eventtype: "vmtl. Picknick im Park"
 eventdetail: "ab 19:00 Uhr"
 facebook: false
@@ -15,7 +15,7 @@ twitter: false
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 25.05.2022 ab 19:00 Uhr
+### Mi, 28.09.2022 ab 19:00 Uhr
 
 
 *Da der Raum im Onkel Emma an diesem Termin voraussichtlich schon von einer anderen Veranstaltung belegt ist, treffen wir uns draußen (auf dem Kirchplatz vor dem Onkel Emma) und gehen dann zusammen in den Bürgerpark zum Picknick. Falls das Wetter für ein Picknick unpassend sein sollte, suchen wir uns spontan einen überdachten Ort.*
