@@ -3,27 +3,29 @@ title: "Polyamorie Stammtisch im Mai 2022"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
 published: 2022-04-23
+updated: 2022-05-24
 news: false
 nometa: true
 eventdate: 2022-05-25
 eventname: "Polyamorie-Stammtisch Mai 2022"
-eventtype: "vmtl. Picknick im Park"
-eventdetail: "ab 19:00 Uhr"
+eventtype: "Stammtisch"
+eventdetail: "ab 19:00 Uhr im Onkel Emma"
 facebook: false
 twitter: false
 ---
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 25.05.2022 ab 19:00 Uhr
+### Mi, 25.05.2022 ab 19:00 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
+*Achtung: der Raum im Onkel Emma ist doch für uns frei geworden, so dass der Stammtisch wie üblich drinnen stattfindet. Falls wir alle spontan mehr Lust auf Picknick haben sollten, könnten wir aber immer noch gemeinsam nach draußen gehen.*
 
-*Da der Raum im Onkel Emma an diesem Termin voraussichtlich schon von einer anderen Veranstaltung belegt ist, treffen wir uns draußen (auf dem Kirchplatz vor dem Onkel Emma) und gehen dann zusammen in den Bürgerpark zum Picknick. Falls das Wetter für ein Picknick unpassend sein sollte, suchen wir uns spontan einen überdachten Ort.*
+Wir treffen uns ab 19 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
 
-Bringt gerne Essen, Getränke und Picknickdecken mit!
+Wir beginnen um **19:30 Uhr** mit der Vorstellungsrunde. Ab 19 Uhr könnt ihr schon einige Leute des Stammtisches im Onkel Emma treffen. Es sind jederzeit neue Leute willkommen.
 
-Wer später dazukommen will, schreibt am besten in eine unserer Chat-Gruppen, dann können wir euch schreiben, wo wir gerade sind.
+Im Hinblick auf die Corona-Pandemie bitten wir euch, vorher einen **Schnelltest** durchzuführen. Und wenn ihr Erkältungssymptome habt, bleibt bitte sowieso zu Hause.
 
-Wir treffen uns ab 19 Uhr und beginnen um **19:30 Uhr** mit der Vorstellungsrunde. Es sind jederzeit neue Leute willkommen.
+Zusätzlich achtet bitte auf die allgemeinen Schutzmaßnahmen: zieht euch, falls kaltes Wetter ist, warm an (so dass wir den Raum zwischendurch lüften können) und tragt wenn möglich eine **FFP2-Maske** (zum Trinken dürft ihr die Maske kurz abnehmen).
 
 Wir freuen uns auf euch!
