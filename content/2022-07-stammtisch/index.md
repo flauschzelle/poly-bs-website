@@ -7,7 +7,7 @@ news: false
 nometa: true
 eventdate: 2022-07-27
 eventname: "Polyamorie-Stammtisch Juli 2022"
-eventtype: "vmtl. Picknick im Park"
+eventtype: "Picknick im Park"
 eventdetail: "ab 19:00 Uhr"
 facebook: false
 twitter: false
@@ -18,7 +18,7 @@ twitter: false
 ### Mi, 27.07.2022 ab 19:00 Uhr
 
 
-*Da der Raum im Onkel Emma an diesem Termin voraussichtlich schon von einer anderen Veranstaltung belegt ist, treffen wir uns draußen (auf dem Kirchplatz vor dem Onkel Emma) und gehen dann zusammen in den Bürgerpark zum Picknick. Falls das Wetter für ein Picknick unpassend sein sollte, suchen wir uns spontan einen überdachten Ort.*
+*Da der Raum im Onkel Emma an diesem Termin schon von einer anderen Veranstaltung belegt ist, treffen wir uns draußen (auf dem Kirchplatz vor dem Onkel Emma) und gehen dann zusammen in den Bürgerpark zum Picknick. Falls das Wetter für ein Picknick unpassend sein sollte, suchen wir uns spontan einen überdachten Ort.*
 
 Bringt gerne Essen, Getränke und Picknickdecken mit!
 
