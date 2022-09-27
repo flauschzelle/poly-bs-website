@@ -1,12 +1,12 @@
 ---
-title: "Polyamorie Stammtisch im September 2022"
+title: "Polyamorie Stammtisch im Oktober 2022"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
-published: 2022-05-16
+published: 2022-09-27
 news: false
 nometa: true
-eventdate: 2022-09-28
-eventname: "Polyamorie-Stammtisch September 2022"
+eventdate: 2022-10-26
+eventname: "Polyamorie-Stammtisch Oktober 2022"
 eventtype: "Stammtisch"
 eventdetail: "19:00 Uhr, Onkel Emma"
 facebook: false
@@ -15,7 +15,7 @@ twitter: false
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 28.09.2022 ab 19:00 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
+### Mi, 26.10.2022 ab 19:00 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
 Wir treffen uns ab 19 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
 
