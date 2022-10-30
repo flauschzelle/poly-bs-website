@@ -19,9 +19,13 @@ twitter: false
 
 Wir treffen uns ab 19 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
 
-Wir beginnen um **19:30 Uhr** mit der Vorstellungsrunde. Es sind jederzeit neue Leute willkommen. Ab 19 Uhr könnt ihr schon einige Leute des Stammtisches in unserem Raum im 1. OG des Onkel Emma treffen 
-  
+Am Anfang (**ab 19 Uhr**, evtl. auch schon ab 18:30) habt ihr Zeit, um anzukommen und entspannt mit den anderen Anwesenden zu quatschen. Es sind jederzeit neue Leute willkommen!
+
 (bitte nicht einfach in die anderen Räume z.B. unten reingehen, dort finden ggf. andere Veranstaltungen in geschützem Rahmen statt).
+
+Wir beginnen um **20:00 Uhr** mit einer Vorstellungsrunde. Danach gibt es eine (moderierte) Gesprächsrunde über polyamore Themen. Fragen oder Themenvorschläge können alle einbringen. 
+
+Spätestens ab **21:30 Uhr** könnt ihr wieder locker in kleineren Runden quatschen. Der Stammtisch hat kein festes Ende, sondern dauert so lange, bis die letzten Leute nach Hause gehen :)
 
 Im Hinblick auf die Corona-Pandemie bitten wir euch, vorher einen **Schnelltest** durchzuführen. Und wenn ihr Erkältungssymptome habt, bleibt bitte sowieso zu Hause.
 
