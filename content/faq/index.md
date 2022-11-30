@@ -89,7 +89,7 @@ Ja, unser Stammtisch ist auch offen für Menschen, die sich einfach nur über da
 
 ##<a name="wo"></a>Wo findet das Treffen statt?
 
-Wir treffen uns ab 19 Uhr im 1. OG des Queeren Zentrums [Onkel Emma](https://onkel-emma.org/) (Echternstraße 9 in Braunschweig).
+Wir treffen uns im 1. OG des Queeren Zentrums [Onkel Emma](https://onkel-emma.org/) (Echternstraße 9 in Braunschweig).
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
@@ -108,7 +108,7 @@ Derzeit leider nicht, da der Raum im ersten Stock liegt und das Gebäude keinen 
 
 ##<a name="wann"></a>Wann findet der Stammtisch statt?
 
-Üblicherweise am letzten Mittwoch des Monats (außer im Dezember) um 19 Uhr. Die [aktuellen Termine](/termine/) findet ihr auch immer hier auf der Website, falls sich mal etwas ändert oder das Treffen z.B. wegen eines Feiertags ausfällt oder an einem anderen Ort stattfindet.  
-Wenn du an die Termine erinnert werden möchtest, komm gerne in eine unserer Gruppen bei den Messenger-Diensten **Signal**, **Telegram** oder **Whatsapp**. ~~[gib uns gerne deine E-Mail-Adresse](/kontakt/). Wir schicken immer ein paar Tage vor dem nächsten Termin eine Erinnerungsmail an alle, die das möchten.~~
+Üblicherweise am letzten Mittwoch des Monats (außer im Dezember), bisher meist ab 19 Uhr (das kann sich aber ändern, schaut am besten jeweils bei den einzelnen Terminen nach der Uhrzeit). Die [aktuellen Termine](/termine/) findet ihr auch immer hier auf der Website, falls sich mal etwas ändert oder das Treffen z.B. wegen eines Feiertags ausfällt oder an einem anderen Ort stattfindet.  
+Wenn du an die Termine erinnert werden möchtest, komm gerne in eine unserer Gruppen bei den Messenger-Diensten **Signal**, **Telegram** oder **Whatsapp**.
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
