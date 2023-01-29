@@ -17,9 +17,10 @@ menu: Häufige Fragen
 - [Ich bin nicht sicher, ob ich polyamor bin, darf ich trotzdem kommen?](#nichtsicher)
 - [Ich bin nicht polyamor, aber möchte mich über das Thema informieren (z.B. weil mein\*e Partner\*in polyamor ist), darf ich trotzdem kommen?](#nichtpoly)
 - [Wo findet der Stammtisch statt?](#wo)
+- [Wann findet der Stammtisch statt?](#wann)
 - [Kann/muss ich da etwas zu essen oder trinken kaufen?](#essen)
 - [Ist der Zugang zum Stammtisch rollstuhlgerecht?](#rollstuhl)
-- [Wann findet der Stammtisch statt?](#wann)
+- [Welche Regeln gelten beim Stammtisch?](#regeln)
 
 ##<a name="werseidihr"></a>Wer seid ihr?
 
@@ -93,6 +94,13 @@ Wir treffen uns im 1. OG des Queeren Zentrums [Onkel Emma](https://onkel-emma.or
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
+##<a name="wann"></a>Wann findet der Stammtisch statt?
+
+Üblicherweise am letzten Mittwoch des Monats (außer im Dezember), bisher meist ab 19 Uhr (das kann sich aber ändern, schaut am besten jeweils bei den einzelnen Terminen nach der Uhrzeit). Die [aktuellen Termine](/termine/) findet ihr auch immer hier auf der Website, falls sich mal etwas ändert oder das Treffen z.B. wegen eines Feiertags ausfällt oder an einem anderen Ort stattfindet.  
+Wenn du an die Termine erinnert werden möchtest, komm gerne in eine unserer Gruppen bei den Messenger-Diensten **Signal**, **Telegram** oder **Whatsapp**.
+
+<p class="up" markdown ="1">[▲ nach oben](#top)</p>
+
 ##<a name="essen"></a>Kann/muss ich da etwas zu essen oder trinken kaufen?
 
 Bei unserem Raum im Onkel Emma gibt es eine Küche mit Kühlschrank, aus dem wir kühle Getränke kaufen können. Ein Wasserkocher für Tee etc. ist auch vorhanden.  
@@ -106,9 +114,8 @@ Derzeit leider nicht, da der Raum im ersten Stock liegt und das Gebäude keinen 
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
 
-##<a name="wann"></a>Wann findet der Stammtisch statt?
+##<a name="regeln"></a>Welche Regeln gelten beim Stammtisch?
 
-Üblicherweise am letzten Mittwoch des Monats (außer im Dezember), bisher meist ab 19 Uhr (das kann sich aber ändern, schaut am besten jeweils bei den einzelnen Terminen nach der Uhrzeit). Die [aktuellen Termine](/termine/) findet ihr auch immer hier auf der Website, falls sich mal etwas ändert oder das Treffen z.B. wegen eines Feiertags ausfällt oder an einem anderen Ort stattfindet.  
-Wenn du an die Termine erinnert werden möchtest, komm gerne in eine unserer Gruppen bei den Messenger-Diensten **Signal**, **Telegram** oder **Whatsapp**.
+Die Regeln, die bei unserem Stammtisch gelten, findet ihr in unserem [Kodex](/kodex/).
 
 <p class="up" markdown ="1">[▲ nach oben](#top)</p>
