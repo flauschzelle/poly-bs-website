@@ -1,34 +1,34 @@
 .box
   a href=link_for(@item)
-  .eventlink
-    - if not @item[:eventend]
-      = @item[:eventdate].strftime("%d.%m.%Y")
-    - else
-      - if not @item[:eventdate].year == @item[:eventend].year
+    .eventlink
+      - if not @item[:eventend]
         = @item[:eventdate].strftime("%d.%m.%Y")
-        br
-        | - 
-        = @item[:eventend].strftime("%d.%m.%Y")
-      - elsif not @item[:eventdate].month == @item[:eventend].month
-        = @item[:eventdate].strftime("%d.%m.")
+      - else
+        - if not @item[:eventdate].year == @item[:eventend].year
+          = @item[:eventdate].strftime("%d.%m.%Y")
           br
           | - 
-        = @item[:eventend].strftime("%d.%m.%Y")
-      - elsif not @item[:eventdate].day == @item[:eventend].day
-        = @item[:eventdate].strftime("%d. ")
-          | - 
-        = @item[:eventend].strftime("%d.%m.%Y")
-      - else
-        = @item[:eventdate].strftime("%d.%m.%Y")
-  .info
-    h2= @item[:eventname]
-    - if @item[:eventtype]
-      h3
-        = @item[:eventtype]
-        br
-    - if @item[:eventdetail]
-      .meta
-        = @item[:eventdetail]
-    - else 
-      .meta
-        = time_and_place_for(@item)
+          = @item[:eventend].strftime("%d.%m.%Y")
+        - elsif not @item[:eventdate].month == @item[:eventend].month
+          = @item[:eventdate].strftime("%d.%m.")
+            br
+            | - 
+          = @item[:eventend].strftime("%d.%m.%Y")
+        - elsif not @item[:eventdate].day == @item[:eventend].day
+          = @item[:eventdate].strftime("%d. ")
+            | - 
+          = @item[:eventend].strftime("%d.%m.%Y")
+        - else
+          = @item[:eventdate].strftime("%d.%m.%Y")
+    .info
+      h2= @item[:eventname]
+      - if @item[:eventtype]
+        h3
+          = @item[:eventtype]
+          br
+      - if @item[:eventdetail]
+        .meta
+          = @item[:eventdetail]
+      - else 
+        .meta
+          = time_and_place_for(@item)
