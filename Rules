@@ -11,6 +11,9 @@ preprocess do
         if item[:eventdate]
             item[:eventdate] = DateTime.parse(item[:eventdate].to_s)
         end
+        if item[:eventend]
+            item[:eventend] = DateTime.parse(item[:eventend].to_s)
+        end
         if item[:tags]
             item[:tags] = item[:tags].split(",").map{|t| t.strip}
         end

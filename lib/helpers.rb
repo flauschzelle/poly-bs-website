@@ -1,6 +1,43 @@
 include Nanoc::Helpers::Rendering
 include Nanoc::Helpers::ChildParent
 
+def time_and_place_for item
+    result = ""
+    if not timestr_for(item).empty?
+        result += timestr_for(item)
+        if item[:eventlocation]
+            result += ", "
+        end
+    end
+    if item[:eventlocation]
+        result += item[:eventlocation]
+    end
+    return result
+end
+
+def timestr_for item
+    result = ""
+    if item[:eventdate].hour == 0 && item[:eventdate].min == 0 && item[:eventdate].sec == 0
+        return results
+    end
+    if item[:eventdate].min == 0
+        result += item[:eventdate].hour.to_s
+    else
+        result += item[:eventdate].strftime("%H:%M")
+    end
+    if item[:eventend]
+        result += " - "
+        if item[:eventend].min == 0
+            result += item[:eventend].hour.to_s
+        else
+            result += item[:eventend].strftime("%H:%M")
+        end
+    end
+    result += " Uhr"
+
+    return result
+end
+
 def events
     blk = -> { @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd - 7}.sort_by{|i| i[:eventdate].jd} }
     if @items.frozen?

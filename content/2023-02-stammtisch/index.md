@@ -5,10 +5,11 @@ tags: Veranstaltung
 published: 2023-01-29
 news: false
 nometa: true
-eventdate: 2023-02-22
+eventdate: 2023-02-22T19:00
+eventend: 2023-02-22T22:00
 eventname: "Polyamorie-Stammtisch Februar 2023"
 eventtype: "Stammtisch"
-eventdetail: "ab 19 Uhr im Onkel Emma"
+eventlocation: "Onkel Emma"
 facebook: false
 twitter: false
 ---
