@@ -82,7 +82,11 @@ def ical_event_for item
 
     ical_str = "BEGIN:VEVENT\n"
     ical_str += "UID:" + "de.poly-bs." + item.path[1..-2] + "\n"
-    ical_str += "DTSTAMP;TZID=Europe/Berlin:" + item[:published].strftime(ical_time_format) + "\n"
+    if item[:updated]
+        ical_str += "DTSTAMP;TZID=Europe/Berlin:" + item[:updated].strftime(ical_time_format) + "\n"
+    else
+        ical_str += "DTSTAMP;TZID=Europe/Berlin:" + item[:published].strftime(ical_time_format) + "\n"
+    end
     ical_str += "ORGANIZER;CN=Polyamorie-Stammtisch Braunschweig:MAILTO:kontakt@poly-bs.de\n"
     ical_str += "DTSTART;TZID=Europe/Berlin:" + item[:eventdate].strftime(ical_time_format) + "\n"
 
