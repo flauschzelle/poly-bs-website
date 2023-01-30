@@ -5,10 +5,10 @@ tags: Veranstaltung
 published: 2023-01-07
 news: false
 nometa: true
-eventdate: 2023-01-15
+eventdate: 2023-01-15T15:00
 eventname: "Spiele-Nachmittag"
-eventtype: "Treffen im Onkel Emma"
-eventdetail: "15 - 18 Uhr"
+eventtype: "Treffen"
+eventlocation: "Onkel Emma"
 facebook: false
 twitter: false
 ---

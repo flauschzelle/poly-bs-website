@@ -38,7 +38,58 @@ def timestr_for item
     return result
 end
 
-def events
+def ical_calendar_for item
+    if not item[:eventdate]
+        raise "Tried to create ical for an item that is not an event."
+    end
+    ical_str = "BEGIN:VCALENDAR\n"
+    ical_str += "VERSION:2.0\n"
+    ical_str += "PRODID:poly-bs.de\n"
+    ical_str += ical_event_for(item)
+    ical_str += "END:VCALENDAR\n"
+    return ical_str
+end
+
+def ical_event_for item
+    if not item[:eventdate]
+        raise "Tried to create ical for an item that is not an event."
+    end
+
+    ical_time_format = "%Y%m%dT%H%M%S"
+
+    ical_str = "BEGIN:VEVENT\n"
+    ical_str += "UID:" + "de.poly-bs." + item.path[1..-2] + "\n"
+    ical_str += "DTSTAMP;TZID=Europe/Berlin:" + item[:published].strftime(ical_time_format) + "\n"
+    ical_str += "ORGANIZER;CN=Polyamorie-Stammtisch Braunschweig:MAILTO:kontakt@poly-bs.de\n"
+    ical_str += "DTSTART;TZID=Europe/Berlin:" + item[:eventdate].strftime(ical_time_format) + "\n"
+
+    ical_str += "DTEND;TZID=Europe/Berlin:"
+    if not item[:eventend]
+        default_eventend = item[:eventdate] + 1/8r # plus 3 hours (1/8 of a day)
+        ical_str += default_eventend.strftime(ical_time_format) + "\n" 
+    else
+        ical_str += item[:eventend].strftime(ical_time_format) + "\n"
+    end
+
+    ical_str += "SUMMARY:" + item[:eventname] + "\n"
+
+    description = item[:subtitle] + "\\n\\n" + domain[0..-2] + item.path
+    ical_str += "DESCRIPTION:" + description + "\n"
+
+    if item[:eventlocation]
+        ical_str += "LOCATION:" + item[:eventlocation] + "\n"
+    end
+    ical_str += "URL:" + domain[0..-2] + item.path + "event.ics\n"
+    ical_str += "END:VEVENT\n"
+    
+    return ical_str
+end
+
+def calendar_events # all events that should appear in the ical calendar feed
+    @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].year >= 2023}.sort_by{|i| i[:eventdate].jd}
+end
+
+def events # events in the present and future
     blk = -> { @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd - 7}.sort_by{|i| i[:eventdate].jd} }
     if @items.frozen?
         @events ||= blk.call
@@ -47,7 +98,7 @@ def events
     end
 end
 
-def nextevents
+def nextevents # the next 3 events
     blk = -> { @items.find_all("/**/*").select{|i| i[:eventdate] && i[:eventdate].jd >= Date::today.jd - 7}.sort_by{|i| i[:eventdate].jd}.take(3) }
     if @items.frozen?
         @nextevents ||= blk.call

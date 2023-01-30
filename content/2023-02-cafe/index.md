@@ -5,10 +5,11 @@ tags: Veranstaltung
 published: 2023-01-25
 news: false
 nometa: true
-eventdate: 2023-02-12
+eventdate: 2023-02-12T15:00
+eventend: 2023-02-12T18:00
 eventname: " Café & Spiele-Nachmittag"
 eventtype: "Im Rahmen des Warmen Winters"
-eventdetail: "15 - 18 Uhr, Onkel Emma"
+eventlocation: "Onkel Emma"
 facebook: false
 twitter: false
 ---

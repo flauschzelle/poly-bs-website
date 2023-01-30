@@ -87,8 +87,15 @@ html lang=lang_for(@item)
                     
       == yield
       
-      - if @item[:eventdate]
+      - if @item[:eventdate] && @item[:eventdate].year >= 2023
         hr
+        p
+          a href="event.ics" -> Diese Veranstaltung als Kalender-Eintrag (iCal) exportieren
+        p
+          a href="webcal://poly-bs.de#{@item.path}event.ics" -> Diese Veranstaltung als Kalender abonnieren
+        p
+          a href="webcal://poly-bs.de/events.ics" -> Alle Veranstaltungen als Kalender abonnieren
+
         h2 Fragen?
         p
           | Wenn du Fragen zu dieser Veranstaltung hast, kannst du uns gerne 

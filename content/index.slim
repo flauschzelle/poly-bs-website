@@ -36,6 +36,9 @@ p
 
 h2= "Die nächsten Termine"
 
+p
+	a href="webcal://poly-bs.de/events.ics" -> Unsere Veranstaltungen als Kalender (iCal) abonnieren
+
 - nextevents.group_by{|t| 0}.each do |group, event| 
     == eventbox(event)
     

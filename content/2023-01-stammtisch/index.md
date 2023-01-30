@@ -5,10 +5,11 @@ tags: Veranstaltung
 published: 2022-12-04
 news: false
 nometa: true
-eventdate: 2023-01-25
+eventdate: 2023-01-25T19:00
+eventend: 2023-01-25T22:00
 eventname: "Polyamorie-Stammtisch Januar 2023"
 eventtype: "Stammtisch"
-eventdetail: "ab 19 Uhr im Onkel Emma"
+eventlocation: "Onkel Emma"
 facebook: false
 twitter: false
 ---
