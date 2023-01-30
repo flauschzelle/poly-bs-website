@@ -28,6 +28,8 @@ Der eigentliche Inhalt ist, bis auf die Startseite, in [Markdown](https://markdo
 
 Auf der Startseite werden automatisch die drei nächsten Termine (vom Zeitpunkt der letzten Aktualisierung aus gesehen) und die drei neusten Blogposts jeweils in einer kleinen Vorschau-Box angezeigt.
 
+Für Termine wird (neu seit 2023) außerdem ein iCal-Kalender generiert und Links zum Abonnieren des Kalenders an mehreren Stellen eingefügt.
+
 ### Neuen Stammtischtermin und/oder Blogpost anlegen
 
 Um einen neuen Termin anzulegen, ist es am einfachsten, zuerst den Ordner eines vergangenen Termins zu kopieren und den Namen entsprechend anzupassen. Dann im angepassten Ordner die Datei *index.md* bearbeiten, so dass die Daten für den neuen Termin passend sind. Aktuell können bei Termin-Seiten und Blogposts folgende Infos im Header-Bereich angegeben werden:
@@ -37,19 +39,22 @@ Attribut-Name | Beispiel-Wert | Beschreibung
 title | "Polyamorie Stammtisch im Oktober 2020" | Titel für die Seite
 subtitle | Unser monatliches Treffen für alternative Beziehungsformen | Untertitel für die Seite
 tags | Veranstaltung, Stammtisch | Themen-Stichwörter, werden für Blogposts in der Vorschaubox angezeigt
-published | 2020-10-25 | Datum, an dem diese Seite erstellt/veröffentlicht wurde
+published | 2020-10-25 | Datum und Uhrzeit (default 0 Uhr), wann diese Seite erstellt/veröffentlicht wurde
+updated | 2020-10-26T17:00 | Datum und Uhrzeit, wann diese Seite zuletzt geändert wurde
 news | false | gibt an, ob es sich (auch) um einen Blogpost handelt (*true* für ja)
 nometa | true | gibt an, ob die Meta-Informationen (*published* und *tags*) unter der Titelzeile ausgeblendet werden sollen
-eventdate | 2020-10-28 | (Nur für Termine) das Datum für die Terminvorschau-Box
+eventdate | 2020-10-28T19:00 | (Nur für Termine) Datum und Start-Uhrzeit für Terminvorschau-Box und Kalender-Export
+eventend | 2020-10-18T22:00 | (Nur für Termine) Datum und Uhrzeit, wann der Termin endet
 eventname | "Polyamorie-Stammtisch Oktober 2020" | (Nur für Termine) der Name der Veranstaltung für die Terminvorschau-Box
 eventtype | "Online-Stammtisch" | (Nur für Termine) Zusätzliche Zeile für die Art des Termins
-eventdetail | "ab 19:00 Uhr" | (Nur für Termine) Weitere Infos für die Terminvorschau-Box, z.B. Uhrzeit und/oder Ort
+eventlocation | "BigBlueButton" | (Nur für Termine) Name des Orts, wo der Termin stattfindet
+~~eventdetail~~ | ~~"ab 19:00 Uhr"~~ | ~~(Nur für Termine) Weitere Infos für die Terminvorschau-Box, z.B. Uhrzeit und/oder Ort~~ (veraltet)
 facebook | false | (Nur für Termine) Link zu einer Facebook-Veranstaltung für diesen Termin, oder *false* wenn es keine gibt
 twitter | https://twitter.com/poly_bs/status/1320446535117770754 | (Nur für Termine) Link zu einem Tweet über diesen Termin, oder *false* wenn es keinen gibt
 thumbnail | flyer.jpg | (Nur für Blogposts) Pfad zu einem Bild, das in der Vorschaubox angezeigt werden soll
 
-Eine Seite kann auch gleichzeitig Blogpost (*news: true*) und Terminankündigung (*eventdate* etc. sind angegeben) sein, dann taucht sie als Vorschaubox im jeweiligen Format sowohl auf der Übersicht der Termine (so lange der Termin in der Zukunft liegt) als auch auf der Blog-Übersicht (dauerhaft) auf. Das ist vor allem für besondere Veranstaltungen wie z.B. Lesungen, Infostände o.ä. interessant, auf die ihr zusätzlich im Blog hinweisen wollt.
+Eine Seite kann auch gleichzeitig Blogpost (*news: true*) und Terminankündigung (*eventdate* etc. sind angegeben) sein, dann taucht sie als Vorschaubox im jeweiligen Format sowohl auf der Übersicht der Termine (so lange der Termin in der Gegenwart oder Zukunft liegt) als auch auf der Blog-Übersicht (dauerhaft) auf. Das ist vor allem für besondere Veranstaltungen wie z.B. Lesungen, Infostände o.ä. interessant, auf die ihr zusätzlich im Blog hinweisen wollt.
 
 Unterhalb des Header-Bereichs in der jeweiligen *index.md*-Datei folgt dann der Beschreibungstext mit allen weiteren Infos, und es können Bilder eingebunden werden, etc.
 
-Falls es sich um eine Veranstaltung handelt, wird automatisch ein Absatz mit einem Link zur Kontakt-Seite (sowie ggf. Links zu Facebook und/oder Twitter) eingebunden, der in der Layout-Datei definiert ist.
+Falls es sich um eine Veranstaltung handelt, werden automatisch drei Kalender-Links (neu ab 2023) und ein Absatz mit einem Link zur Kontakt-Seite (sowie ggf. Links zu Facebook und/oder Twitter) eingebunden, der in der Layout-Datei definiert ist.
