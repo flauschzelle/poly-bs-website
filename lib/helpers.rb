@@ -96,8 +96,7 @@ def ical_event_for item
 
     ical_str += "SUMMARY:" + item[:eventname] + "\n"
 
-    description = item[:subtitle] + "\\n\\n" + domain[0..-2] + item.path
-    ical_str += "DESCRIPTION:" + description + "\n"
+    ical_str += ical_description_for(item)
 
     if item[:eventlocation]
         ical_str += "LOCATION:" + item[:eventlocation] + "\n"
@@ -105,6 +104,13 @@ def ical_event_for item
     ical_str += "URL:" + domain[0..-2] + item.path + "event.ics\n"
     ical_str += "END:VEVENT\n"
     
+    return ical_str
+end
+
+def ical_description_for item
+    description = item[:subtitle] + "\\n\\nInfos unter: " + domain[0..-2] + item.path
+    long_ical_str = "DESCRIPTION:" + description + "\n"
+    ical_str = long_ical_str.gsub(/(.{70})/,"\\1\n ") # insert a newline and a space after every 70 chars
     return ical_str
 end
 
