@@ -86,12 +86,14 @@ end
 compile "/**/*.md", :rep => :ical do
     if item[:eventdate] && item[:eventdate].year >= 2023
         layout "/event_ical.*"
+        filter :crlf
         write item.identifier.without_ext[0..-6] + "event.ics" 
     end
 end
 
 compile "/events.ics" do
     filter :erb
+    filter :crlf
     write item.identifier
 end
 
