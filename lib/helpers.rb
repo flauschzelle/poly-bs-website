@@ -38,6 +38,28 @@ def timestr_for item
     return result
 end
 
+def ical_vtimezone
+    ical_str = "BEGIN:VTIMEZONE\n"
+    ical_str += "TZID:Europe/Berlin\n"
+    ical_str += "X-LIC-LOCATION:Europe/Berlin\n"
+    ical_str += "BEGIN:DAYLIGHT\n"
+    ical_str += "TZOFFSETFROM:+0100\n"
+    ical_str += "TZOFFSETTO:+0200\n"
+    ical_str += "TZNAME:CEST\n"
+    ical_str += "DTSTART:19700329T020000\n"
+    ical_str += "RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU\n"
+    ical_str += "END:DAYLIGHT\n"
+    ical_str += "BEGIN:STANDARD\n"
+    ical_str += "TZOFFSETFROM:+0200\n"
+    ical_str += "TZOFFSETTO:+0100\n"
+    ical_str += "TZNAME:CET\n"
+    ical_str += "DTSTART:19701025T030000\n"
+    ical_str += "RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU\n"
+    ical_str += "END:STANDARD\n"
+    ical_str += "END:VTIMEZONE\n"
+    return ical_str
+end
+
 def ical_calendar_for item
     if not item[:eventdate]
         raise "Tried to create ical for an item that is not an event."
@@ -45,6 +67,7 @@ def ical_calendar_for item
     ical_str = "BEGIN:VCALENDAR\n"
     ical_str += "VERSION:2.0\n"
     ical_str += "PRODID:poly-bs.de\n"
+    ical_str += ical_vtimezone
     ical_str += ical_event_for(item)
     ical_str += "END:VCALENDAR\n"
     return ical_str
