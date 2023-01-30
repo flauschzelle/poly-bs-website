@@ -1,8 +1,4 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:poly-bs.de
-<%=ical_vtimezone %>
-<% calendar_events.each do |e| %>
-<%=ical_event_for(e)%>
-<%end%>
-END:VCALENDAR
+<%=ical_vtimezone%><% calendar_events.each do |e| %><%=ical_event_for(e)%><%end%>END:VCALENDAR
