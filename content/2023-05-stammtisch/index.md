@@ -1,14 +1,13 @@
 ---
-title: "Polyamorie Stammtisch im April 2023"
+title: "Polyamorie Stammtisch im Mai 2023"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
-published: 2023-02-28
-updated: 2023-03-12
+published: 2023-03-12
 news: false
 nometa: true
-eventdate: 2023-04-26T19:30
-eventend: 2023-04-26T22:00
-eventname: "Polyamorie-Stammtisch April 2023"
+eventdate: 2023-05-31T19:30
+eventend: 2023-05-31T22:00
+eventname: "Polyamorie-Stammtisch Mai 2023"
 eventtype: "Stammtisch"
 eventlocation: "Onkel Emma"
 facebook: false
@@ -17,7 +16,7 @@ twitter: false
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 26.04.2023 ab 19:30 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
+### Mi, 31.05.2023 ab 19:30 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
 Wir treffen uns ab 19:30 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
 
