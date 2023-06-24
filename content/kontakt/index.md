@@ -5,7 +5,7 @@ nometa: true
 ---
 Bei Fragen erreicht ihr uns am besten in unseren Chat-Gruppen (siehe unten), oder schaut in unsere [FAQ](/faq/).
 
-**E-Mail:** <span>a<span title="ihate@spam.com</span>">l</span>ternative_beziehungsformen</span>&#64;gmx<i title="</i>mailto:">.</i>de  
+**E-Mail:** <span>k<span title="ihate@spam.com</span>">o</span>ntakt</span>&#64;poly-bs<i title="</i>mailto:">.</i>de  
 
 Außerdem haben wir Gruppen bei **Whatsapp**, **Signal** und **Telegram**, in denen wir uns auch außerhalb von Veranstaltungen unterhalten können. Wer in eine (oder mehrere) der Gruppen rein möchte: schickt uns eure Handynummer per E-Mail oder sagt beim Stammtisch Bescheid.
 

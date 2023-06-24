@@ -265,7 +265,7 @@ def with_tag tag
 end
 
 def domain
-    "http://poly-bs.de/"
+    "https://poly-bs.de/"
 end
 
 def box(items)

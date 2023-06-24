@@ -3,14 +3,14 @@
 
 # Website für den Polyamorie-Stammtisch Braunschweig
 Auf dieser Website werden Informationen über den Braunschweiger Polyamorie-Stammtisch veröffentlicht.
-Aktuell ist die Seite online unter [http://poly-bs.de](http://poly-bs.de) erreichbar.
+Aktuell ist die Seite online unter [https://poly-bs.de](https://poly-bs.de) erreichbar.
 
 Ich bin nicht die Veranstalterin des Stammtischs, aber habe mich bereit erklärt, die Website zu verwalten. Für den Fall, dass jemand anderes diese Aufgabe übernimmt, dokumentiere ich hier die Vorgehensweise, um die Website zu aktualisieren und zu veröffentlichen.
 
 ## Systemvoraussetzungen
 
 Die Website wird mit [nanoc](https://nanoc.ws/) generiert. Wer die Seite bearbeiten möchte, muss also **nanoc installiert** haben.
-Um die Website zu veröffentlichen, muss außerdem ein **Zugang auf den Server** (z.B. per SSH-Key) vorhanden sein, auf dem die Website liegt. Für einen neuen Server muss ggf. der Pfad in der Datei *nanoc.yaml* angepasst werden. Zugang und genauere Infos zum aktuellen Server und der Domain bekommt ihr ggf. von unserem Server-Admin **Christian** (beim Stammtisch fragen).
+Um die Website zu veröffentlichen, muss außerdem ein **Zugang auf den Server** (z.B. per SSH-Key) vorhanden sein, auf dem die Website liegt. Für einen neuen Server muss ggf. der Pfad in der Datei *nanoc.yaml* angepasst werden. Zugang und genauere Infos zum aktuellen Server und der Domain bekommt ihr ggf. von unseren Server-Admins **Kiki, blinry und Lena** (beim Stammtisch fragen).
 
 ## Vorgehensweise zum Veröffentlichen von Änderungen
 
@@ -24,7 +24,7 @@ Wenn ihr mit allen Änderungen zufrieden seid, dann kann die aktualisierte Websi
 ## Website-Struktur
 
 Das Layout der Seite ist im Format [slim](http://slim-lang.com/) definiert - vor allem in den Dateien *layouts/default.slim* und *content/index.slim*.
-Der eigentliche Inhalt ist, bis auf die Startseite, in [Markdown](https://markdown.de/) geschrieben. Für jede weitere Seite (also z.B. Blogposts, Info-Seiten wie z.B. FAQ, und jeweils eine Ankündigungsseite für jede Stammtisch-Veranstaltung) liegt ein eigenes Unter-Verzeichnis im Ordner *content* mit einer eigenen *index.md*-Datei und ggf. weiteren Dateien, die nur für diese Seite nötig sind, also z.B. Bildern. Der Name des Ordners taucht dann in der fertigen Website als Teil der URL auf, also z.B. *http://poly-bs.de/kontakt/* für den Ordner *content/kontakt/*.
+Der eigentliche Inhalt ist, bis auf die Startseite, in [Markdown](https://markdown.de/) geschrieben. Für jede weitere Seite (also z.B. Blogposts, Info-Seiten wie z.B. FAQ, und jeweils eine Ankündigungsseite für jede Stammtisch-Veranstaltung) liegt ein eigenes Unter-Verzeichnis im Ordner *content* mit einer eigenen *index.md*-Datei und ggf. weiteren Dateien, die nur für diese Seite nötig sind, also z.B. Bildern. Der Name des Ordners taucht dann in der fertigen Website als Teil der URL auf, also z.B. *https://poly-bs.de/kontakt/* für den Ordner *content/kontakt/*.
 
 Auf der Startseite werden automatisch die drei nächsten Termine (vom Zeitpunkt der letzten Aktualisierung aus gesehen) und die drei neusten Blogposts jeweils in einer kleinen Vorschau-Box angezeigt.
 

@@ -14,7 +14,7 @@ deploy:
   default:
     kind: rsync
 #comment out the next line for safety if you don't yet have a webspace for the site
-    dst: "poly-bs.de:/srv/www/poly-bs"
+    dst: "polybs@lynx.uberspace.de:/var/www/virtual/polybs/html"
     options: [
       '--partial',
       '--progress',
@@ -23,6 +23,6 @@ deploy:
       '--omit-dir-times',
       '--verbose',
       '--compress',
-#      '--chmod=u=rwX,go=rX',
+      '--chmod=u=rwX,go=rX',
       '--delete-after'
     ]
