@@ -1,43 +1,29 @@
 ---
-title: "Polyamorie Stammtisch im Juli 2023"
+title: "Polyamores Picknick im Juli 2023"
 subtitle: Unser monatliches Treffen für alternative Beziehungsformen
 tags: Veranstaltung
 published: 2023-05-05
+updated: 2023-06-24
 news: false
 nometa: true
-eventdate: 2023-07-26T19:30
+eventdate: 2023-07-26T19:00
 eventend: 2023-07-26T22:00
 eventname: "Polyamorie-Stammtisch Juli 2023"
-eventtype: "Stammtisch"
-eventlocation: "Onkel Emma"
+eventtype: "Picknick"
+eventlocation: "draußen im Park"
 facebook: false
 twitter: false
 ---
 
 ## Unser monatliches Treffen für alternative Beziehungsformen
 
-### Mi, 26.07.2023 ab 19:30 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
+### Mi, 26.07.2023 ab 19 Uhr draußen im Park (Treffpunkt am Onkel Emma)
 
-Wir treffen uns ab 19:30 Uhr im queeren Zentrum Onkel Emma, dort sind wir in einem großen **Raum im 1. OG**.
+Alle Menschen, die sich für einvernehmlich nicht-exklusive Beziehungen interessieren, sind bei unserem Picknick herzlich willkommen!
 
-#### Ablauf
+Wir treffen uns ab 19 Uhr draußen auf dem Kirchplatz vor dem Onkel Emma (Echternstraße 9) und gehen gegen 19:30 zusammen in einen Park. Falls das Wetter für ein Picknick unpassend sein sollte, suchen wir uns spontan einen überdachten Ort. Bringt gerne Essen, Getränke und Picknickdecken mit!
 
-Am Anfang (**ab 19:30 Uhr**) habt ihr Zeit, um anzukommen und entspannt mit den anderen Anwesenden zu quatschen. (Bitte nicht einfach in die anderen Räume z.B. unten reingehen, dort finden ggf. andere Veranstaltungen in geschützem Rahmen statt).
-
-Es sind jederzeit neue Leute willkommen - kommt bitte vor 20 Uhr an, damit ihr die einleitenden Infos der Moderation nicht verpasst.
-
-Wir beginnen um **20:00 Uhr** mit einer Vorstellungsrunde. Danach gibt es eine (moderierte) Gesprächsrunde über polyamore Themen. Fragen oder Themenvorschläge können alle einbringen. 
-
-Spätestens ab **21:30 Uhr** könnt ihr wieder locker in kleineren Runden quatschen. Der Stammtisch hat kein festes Ende, sondern dauert so lange, bis die letzten Leute nach Hause gehen :)
-
-#### Hygiene-Regeln
-
-Im Hinblick auf die Corona-Pandemie und andere Infektionskrankheiten, die gerade umgehen: bitte bleibt zu Hause, wenn ihr Erkältungssymptome habt! 
-
-Außerdem schützen wir uns und unsere Mitmenschen, indem alle Teilnehmenden beim Stammtisch eine **Maske über Mund und Nase** tragen (idealerweise eine gut sitzende FFP2-Maske). Zum Trinken dürft ihr die Maske kurz abnehmen.  
-Dass alle Teilnehmenden Masken tragen, ist uns wichtig, damit sich alle Menschen beim Stammtisch sicher fühlen können - bitte diskutiert nicht darüber.
-
-Wir werden den Raum außerdem regelmäßig lüften, also denkt bitte an Kleidung, die zum Wetter draußen passt.
+Wer später dazukommen möchte: schreibt in eine unserer Messenger-Gruppen, dann sagen wir euch Bescheid, wo genau im Park wir uns hingesetzt haben.
 
 #### Verhaltens-Kodex
 

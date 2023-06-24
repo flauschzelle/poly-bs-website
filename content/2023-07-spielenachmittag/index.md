@@ -1,35 +1,33 @@
 ---
-title: "Spiele-Nachmittag mit dem Polyamorie-Stammtisch"
+title: "Polyamores Picknick / Spiele-Nachmittag"
 subtitle: Brettspiele spielen und quatschen mit anderen polyamoren Menschen
 tags: Veranstaltung
 published: 2023-05-05
+updated: 2023-06-24
 news: false
 nometa: true
 eventdate: 2023-07-09T15:00
 eventend: 2023-07-09T18:00
-eventname: "Polyamorie-Treff Spiele-Nachmittag"
-eventtype: "(Gesellschafts-)Spiele spielen und Plaudern"
-eventlocation: "Onkel Emma"
+eventname: "Picknick / Spiele-Nachmittag"
+eventtype: "Essen, spielen und Plaudern"
+eventlocation: "Onkel Emma / draußen"
 facebook: false
 twitter: false
 ---
 
 ## Viele Spiele und viele viel-liebende Mitspieler*innen = VielSpielSpaß
 
-### So, 09.07.2023, 15-18 Uhr im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
+### So, 09.07.2023, 15-18 Uhr draußen oder im [queeren Zentrum Onkel Emma](https://onkel-emma.org/) (Echternstraße 9)
 
-Wir spielen Brett-, Karten-, u.ä. Spiele und können dabei in lockerer Runde mit anderen Menschen quatschen, die in einvernehmlichen Mehrfachbeziehungs-Konstellationen leben und/oder sich dafür interessieren.
+Lockeres Treffen zum Quatschen und Spiele Spielen für polyamore Menschen, Freund*innen und Interessierte.  
 
-Im Onkel Emma gibt es schon einige Spiele. Ihr könnt zusätzlich auch gerne eure liebsten Spiele von zuhause mitbringen, die ihr schon immer mal mit neuen Leuten ausprobieren wolltet.
+Wir treffen uns bei passendem Wetter um 15 Uhr draußen (vor dem Onkel Emma) und gehen dann gemeinsam in einen Park. Falls das Wetter nicht Picknick-tauglich ist, spielen wir drinnen im Onkel Emma - besucht für aktuelle Infos bitte kurz vorher nochmal unsere Website.  
 
-#### Hygiene-Regeln
+Bringt gerne Picknickdecken, Essen und Trinken (für draußen), und/oder eure liebsten Brett- und Kartenspiele mit.
 
-Im Hinblick auf die Corona-Pandemie und andere Infektionskrankheiten, die gerade umgehen: bitte bleibt zu Hause, wenn ihr Erkältungssymptome habt! 
+#### Hygiene
 
-Außerdem schützen wir uns und unsere Mitmenschen, indem alle Teilnehmenden beim Stammtisch eine **Maske über Mund und Nase** tragen (idealerweise eine gut sitzende FFP2-Maske). Zum Trinken dürft ihr die Maske kurz abnehmen.  
-Dass alle Teilnehmenden Masken tragen, ist uns wichtig, damit sich alle Menschen beim Stammtisch sicher fühlen können - bitte diskutiert nicht darüber.
-
-Wir werden den Raum außerdem regelmäßig lüften, also denkt bitte an warme Kleidung.
+Bitte beachtet: Drinnen tragen wir aus gegenseitiger Rücksichtnahme weiterhin Masken.
 
 #### Verhaltens-Kodex
 
