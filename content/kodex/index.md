@@ -31,4 +31,4 @@ Damit unser Stammtisch ein sicheres Umfeld für alle sein kann:
 - Was beim Stammtisch gesagt wird, bleibt hier: Fremd-Outings gegenüber Außenstehenden verletzen die **Privatsphäre** der Teilnehmenden und können gefährlich sein.
 - Unsere Kommunikations-Infrastruktur ist **keine Dating-Plattform**. Auch wenn ihr z.B. durch unsere Signal-Gruppe die Telefonnummer von anderen Teilnehmenden kennt: Schickt private Nachrichten nur mit vorheriger Absprache.
 - **Achtet auf eure Bedürfnisse**: wenn ihr z.B. merkt, dass es stickig ist - öffnet die Fenster. Wenn ihr eine Pause braucht, geht nach draußen oder in eine ruhige Ecke.
-- Wenn ihr merkt, dass andere Teilnehmende die Regeln missachten: weist die Person entweder selbst darauf hin, oder wendet euch an die Moderation oder die Orga-Gruppe.
+- Wenn etwas eure Grenzen überschreitet oder ihr euch unwohl fühlt, wendet euch zum Beispiel gerne an die Moderation oder schreibt eine [e-mail ans Orga-Team](/kontakt). Auch wenn ihr merkt, dass jemand die Regeln missachtet, wendet euch an uns.
